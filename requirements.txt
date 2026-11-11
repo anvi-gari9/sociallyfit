@@ -1,0 +1,8 @@
+streamlit
+openai
+python-dotenv
+sqlalchemy>=2.0
+pandas
+altair
+requests
+simplejson

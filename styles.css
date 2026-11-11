@@ -1,0 +1,8 @@
+/* styles.css */
+.custom-button {
+    background-color: rgb(241, 174, 174);
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
